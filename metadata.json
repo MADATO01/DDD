@@ -1,0 +1,6 @@
+{
+  "name": "Demi God: Ragnarok Chronicles",
+  "description": "An immersive 2.5D retro RPG arena where you harness divine magic as a Demi God to vanquish mythological beasts in tactical real-time combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
